@@ -46,7 +46,7 @@ Goal: Can we uncover latent market structures — like calm, volatile, or crisis
 - Achieved **97% accuracy** on test and validation sets
 - Confirmed that the latent regimes are **predictable and explainable**
 
-## 📈 Results
+## Results
 
 - Discovered **distinct market regimes** from unlabeled data
 - Achieved **strong predictive performance** using Support Vector Machines
